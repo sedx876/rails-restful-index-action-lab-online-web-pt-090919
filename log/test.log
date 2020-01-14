@@ -687,3 +687,5 @@ Started GET "/students" for 127.0.0.1 at 2020-01-14 22:40:48 +0000
   [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
   [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
   [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+Started GET "/students" for 127.0.0.1 at 2020-01-14 22:41:04 +0000
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
